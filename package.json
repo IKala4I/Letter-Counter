@@ -1,5 +1,5 @@
 {
-  "name": "letter-counter",
+  "name": "@kala4/letter-counter",
   "version": "1.0.0",
   "description": "Count the most repeated letter in the text",
   "main": "index.js",
